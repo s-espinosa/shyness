@@ -11,7 +11,7 @@ module Shyness
 
     desc "add_alias", "Adds an alias `ask` to the current user's .bash_profile so the user can use `ask` in place of `shyness ask`"
     def add_alias
-      `echo 'alias ask="shyness ask"' >> ~/.bash_profile`
+      `echo 'alias sa="shyness ask"' >> ~/.bash_profile`
     end
   end
 end
