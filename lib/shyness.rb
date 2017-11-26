@@ -1,5 +1,5 @@
 require "shyness/version"
+require "shyness/ask"
 
 module Shyness
-  # Your code goes here...
 end
