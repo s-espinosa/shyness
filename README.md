@@ -36,6 +36,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/s-espi
 
 Future development plans include:
 
+* Allowing users to set a Cohort variable that would then be accepted by the API and saved with the question.
 * Allowing users to set the route to which they will post.
 
 ## License
