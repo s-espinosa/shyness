@@ -2,7 +2,7 @@
 
 Shyness is a gem designed to allow students to allow students to post questions they have to a [website](https://stark-oasis-58079.herokuapp.com/questions) from the command line without raising their hand.
 
-Inspirations for the names [Ask](https://github.com/s-espinosa/ask) and Shyness are courteousy of [Moz](https://www.youtube.com/watch?v=zoo9Vu1a9bU)
+Inspiration for the names [Ask](https://github.com/s-espinosa/ask) and Shyness are courteousy of [Moz](https://www.youtube.com/watch?v=zoo9Vu1a9bU)
 
 ## Installation
 
