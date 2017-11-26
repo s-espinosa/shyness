@@ -8,10 +8,10 @@ module Shyness
       Shyness::Ask.add(question)
       puts question
     end
-  end
 
-  desc "add_alias", "Adds an alias `ask` to the current user's .bash_profile so the user can use `ask` in place of `shyness ask`"
-  def add_alias
-    `echo 'alias ask="shyness ask"' >> ~/.bash_profile`
+    desc "add_alias", "Adds an alias `ask` to the current user's .bash_profile so the user can use `ask` in place of `shyness ask`"
+    def add_alias
+      `echo 'alias ask="shyness ask"' >> ~/.bash_profile`
+    end
   end
 end
